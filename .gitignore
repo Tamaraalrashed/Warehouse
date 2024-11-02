@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vshistory
+/Controllers/.vshistory
+/Properties/.vshistory/launchSettings.json
+/Extensions/.vshistory/SqliteExtensions.cs/2024-11-01_11_54_54_668.cs
+/Extensions/.vshistory/SqliteExtensions.cs/2024-11-01_14_40_29_994.cs
+/Extensions/.vshistory/SqliteExtensions.cs/2024-11-01_14_42_21_697.cs
+
+/Extensions/.vshistory
